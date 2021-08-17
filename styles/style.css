@@ -498,6 +498,7 @@ p {
 
 #hobies .hobie-img {
     display: flex;
+    border-radious: 20px;
     width: 100%;
     padding: 4% 2%;
     box-sizing: border-box;
