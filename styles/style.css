@@ -419,6 +419,14 @@ p {
     color: white;
 }
 
+#projects .project-info a {
+    color: white;
+}
+
+#projects .project-info a:hover {
+    text-decoration: underline;
+}
+
 #projects .project-info h1 {
     font-size: 4rem;
     font-weight: 500;
